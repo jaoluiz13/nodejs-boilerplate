@@ -1,4 +1,4 @@
-# nodejs-boilerplate
+# NodeJS Express Boilerplate
 
 Este BoilerPlate é um pequeno inicializador de APIs em node, com algumas coisas já configuradas como
 
